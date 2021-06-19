@@ -6,7 +6,7 @@ Pythonda databaza bilan ishlaymiz
    <li>pgAdmin4 ornatamiz</li>
    <li>pgAdmin4 ga kirib server yaratamiz</li>
 </ol>
-<a href="https://www.pgadmin.org/">pgAdmin 4 yuklab olish uchun bosing</a>
+<a href="https://www.pgadmin.org/">pgAdmin 4 ni yuklab olish uchun bosing</a>
 
 # Savollar uchun 👇👇👇👇
 
